@@ -91,4 +91,7 @@ Foi desenvolvido como parte da disciplina **Soluções Mobile** no curso de **En
 ### 🔗 Professor responsável:
 **Thyerri Mezzari**
 
--------------------------------------------------------------------------------------------------------------------------------------------
+---
+
+### 👨‍💻 Desenvolvido por:
+[Marcos Goudinho](https://github.com/marcosgoudinho)
